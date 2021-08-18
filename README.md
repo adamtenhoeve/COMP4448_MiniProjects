@@ -5,7 +5,7 @@ The Mini-Projects are all machine-learning projects where I took a dataset, clea
 
 The projects include algorithms for:
 1. Linear Regression
-2. Logistic Regression
+2. Clustering and Logistic Regression
 3. Naive Bayes with NLP
 4. Decision Trees
 5. K-Nearest Neighbors
